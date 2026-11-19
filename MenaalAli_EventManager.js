@@ -77,7 +77,7 @@ let eventManager = {
         return this.bookings[bookIndex];
     },
     
-    // 5. Retrive event information
+    // 5. Retrive event information 
     retrieveInformation(index){
         return this.events[index];
     }
