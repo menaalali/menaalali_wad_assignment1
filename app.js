@@ -13,7 +13,7 @@ console.log("Bookings details: ", booking);
 
 //Cancel bookings
 eventManager.cancelBooking(3,0);
-console.log("Following booking cancelled: ", eventManager.cancelBooking(3,0));
+console.log("Following booking cancelled: ", cancelBooking);
 
 //Retrive event information
 console.log("Event information: ", eventManager.retrieveInformation(1));
