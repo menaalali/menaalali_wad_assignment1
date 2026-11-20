@@ -7,7 +7,7 @@ In this readme file, describe how to use your node module. It could be similar t
 You can press **Ctrl+Shift+V** in this file in Visual Studio Code to see a live preview of the readme file.
 
 # Assignment 1 Node Module
-The existing web application I chose to create a node module for is Eventbrite and it is called 'Eventbrite Event Management Module'
+The existing web application I chose to create a node module for is Eventbrite and it is called 'EventManager'.
 
 # Set-Up
 1. Ensure Node.js is installed in order to run the node module
